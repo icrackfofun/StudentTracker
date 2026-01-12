@@ -1,0 +1,14 @@
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/bin/Debug/net9.0/StudentManagement
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/bin/Debug/net9.0/StudentManagement.deps.json
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/bin/Debug/net9.0/StudentManagement.runtimeconfig.json
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/bin/Debug/net9.0/StudentManagement.dll
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/bin/Debug/net9.0/StudentManagement.pdb
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/StudentManagement.AssemblyInfoInputs.cache
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/StudentManagement.AssemblyInfo.cs
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/StudentManagement.csproj.CoreCompileInputs.cache
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/StudentManagement.dll
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/refint/StudentManagement.dll
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/StudentManagement.pdb
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/StudentManagement.genruntimeconfig.cache
+/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/Debug/net9.0/ref/StudentManagement.dll
