@@ -46,6 +46,8 @@ Techniques Practiced
 1.  **File I/O & Serialization**
 
     -   Use of `System.Text.Json` to serialize/deserialize `List<Student>` to a JSON file.
+  
+    -   Upon Startup, if `students.json` file is present, student data will be loaded for use.
 
     -   Safe reading/writing using `File.ReadAllText` and `File.WriteAllText`.
 
