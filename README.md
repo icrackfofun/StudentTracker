@@ -4,7 +4,7 @@ Student Management System
 Overview
 --------
 
-This project is a **console-based Student Management System** built in C#.\
+This project is a Simple **console-based Student Management System** built in C#.\
 It allows users to:
 
 -   Add and remove students
