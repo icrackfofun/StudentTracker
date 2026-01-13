@@ -37,8 +37,9 @@ public class Operations
 	{
 		int id = Helper.requestValidId(students);
 		if (id == -1) return;
-		string name = students[id].Name;
-		double average = students[id].getAverage();
+		Student student = Helper.findStudentById(students, id)!;
+		string name = student.Name;
+		double average = student.getAverage();
 		Console.WriteLine ($"\n{name}'s Average: {average}\n");
 	}
 
@@ -58,7 +59,8 @@ public class Operations
 	{
 		int id = Helper.requestValidId(students);
 		if (id == -1) return;
-		students[id].displayGrades();
+		Student student = Helper.findStudentById(students, id)!;
+		student.displayGrades();
 	}
 
 	public static void saveAndExit(List<Student> students)

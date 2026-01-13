@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pedroborrega/Desktop/languages/c#/StudentManagement/StudentManagement.csproj": {}
+    "/Users/pedroborrega/Desktop/languages/c#/StudentTracker/StudentManagement.csproj": {}
   },
   "projects": {
-    "/Users/pedroborrega/Desktop/languages/c#/StudentManagement/StudentManagement.csproj": {
+    "/Users/pedroborrega/Desktop/languages/c#/StudentTracker/StudentManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pedroborrega/Desktop/languages/c#/StudentManagement/StudentManagement.csproj",
+        "projectUniqueName": "/Users/pedroborrega/Desktop/languages/c#/StudentTracker/StudentManagement.csproj",
         "projectName": "StudentManagement",
-        "projectPath": "/Users/pedroborrega/Desktop/languages/c#/StudentManagement/StudentManagement.csproj",
+        "projectPath": "/Users/pedroborrega/Desktop/languages/c#/StudentTracker/StudentManagement.csproj",
         "packagesPath": "/Users/pedroborrega/.nuget/packages/",
-        "outputPath": "/Users/pedroborrega/Desktop/languages/c#/StudentManagement/obj/",
+        "outputPath": "/Users/pedroborrega/Desktop/languages/c#/StudentTracker/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pedroborrega/.nuget/NuGet/NuGet.Config"
